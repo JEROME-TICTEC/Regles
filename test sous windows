@@ -1,0 +1,5 @@
+C:\Users\toto\Documents\projects\Regles-master>cargo build --release && RESOLUTION_TYPE=asservi REGLES_SOURCE=./regles.txt ./superviseur.py
+   Compiling Regle v1.0.0 (C:\Users\toto\Documents\projects\Regles-master)
+    Finished release [optimized] target(s) in 22.52s
+'RESOLUTION_TYPE' n'est pas reconnu en tant que commande interne ou externe, un programme exécutable ou un fichier de commandes.
+
